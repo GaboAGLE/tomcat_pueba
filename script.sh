@@ -31,7 +31,7 @@ sudo mkdir /usr/share/tomcat/conf/sslkey
 sudo cp /tmp/migration-noSSL/sslkey/webserverkey /usr/share/tomcat/conf/sslkey/webserverkey
 
 #agregamos el archivo con la dirección del ssl actualizada
-#sudo cp /tmp/migration-noSSL/conf/server.xml /usr/share/tomcat/conf/server.xml
+sudo cp /tmp/migration-noSSL/conf/server.xml /usr/share/tomcat/conf/server.xml
 
 #Cambiar los siguientes archivos (comentando la etiqueta value):
 sudo cp /tmp/migration-noSSL/host-manager/context.xml /usr/share/tomcat/webapps/host-manager/META-INF/context.xml
