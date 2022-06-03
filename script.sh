@@ -1,7 +1,7 @@
 #PREWORK
 #sudo yum -y update
 #sudo yum -y install git
-#git clone https://github.com/PegaChucho/migration2 /tmp/migration-noSSL
+#git clone https://github.com/GaboAgle/tomcat_prueba /tmp/migration-noSSL
 #chmod +x /tmp/migration-noSSL/script.sh
 #sh /tmp/migration-noSSL/script.sh
 
