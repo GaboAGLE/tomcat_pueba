@@ -1,9 +1,4 @@
-#PREWORK
-#sudo yum -y update
-#sudo yum -y install git
-#git clone https://github.com/PegaChucho/migration2 /tmp/migration-SSL
-#chmod +x /tmp/migration-SSL/script.sh
-#sh /tmp/migration-SSL/scriptSSL.sh
+
 
 #Se crea el grupo de usuarios
 sudo groupadd --system tomcat
